@@ -134,3 +134,5 @@ LOGOUT_REDIRECT_URL = "/login/"
 STATICFILES_DIRS = [
     BASE_DIR / "static",
 ]
+
+# githubを使ったテストのためここにコメント
